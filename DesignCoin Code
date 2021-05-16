@@ -24,4 +24,55 @@ var profileButton;
 var profilePage;
 var rankPage;
 var digitalWallet;
-function 
+function designImageFunction(){
+}
+function likeButtonFunction(){
+}
+function likeValueFunction(){
+}
+function coinValueFunction(){
+}
+function coinButtonFunction(){
+}
+function rankButtonFunction(){
+}
+function rankTopOneButtonFunction(){
+}
+function rankTopOneImageFunction(){
+}
+function rankTopOneValueFunction(){
+}
+function rankTopTenButtonFunction(){
+}
+function rankTopTenImageFunction(){
+}
+function rankTopTenValueFunction(){
+}
+function rankTopOnehundredButtonFunction(){
+}
+function rankTopOnehundredImageFunction(){
+}
+function rankTopOnehundredValueFunction(){
+}
+function designCoinButtonFunction(){
+}
+function searchBarFunction(){
+}
+function searchGlassButtonFunction(){
+}
+function shareButtonFunction(){
+}
+function privateSafeFunction(){
+}
+function privateStoreFunction(){
+}
+funciton publicStoreFunction(){
+}
+function profileButtonFunction(){
+}
+function profilePageFunction(){
+}
+function rankPageFunction(){
+}
+function digitalWalletFunction(){
+}

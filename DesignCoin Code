@@ -1,0 +1,27 @@
+var designImage;
+var likeButton;
+var likeValue;
+var coinValue;
+var coinButtton;
+var rankButton;
+var rankTopOneButton;
+var rankTopOneImage;
+var rankTopOneValue;
+var rankTopTenButton;
+var rankTopTenImage;
+var rankTopTenValue;
+var rankTopOnehundredButton;
+var rankTopOneHundredImage;
+var rankTopOnehundredValue;
+var designCoinButton;
+var searchBar;
+var searchGlassButton;
+var shareButton;
+var privateSafe;
+var privateStore;
+var publicStore;
+var profileButton;
+var profilePage;
+var rankPage;
+var digitalWallet;
+function 
